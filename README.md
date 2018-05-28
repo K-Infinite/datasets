@@ -1,1 +1,1 @@
-# UCI data sets with 10% missing attribute values 
+# UCI data sets with 10% missing condition attribute values 
